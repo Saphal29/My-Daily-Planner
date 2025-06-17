@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
+    "react-dotenv": "^0.1.3"
+  }
+}
